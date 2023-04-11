@@ -1,0 +1,8 @@
+31. Crackers      1 pck        120 Tk
+32. Nuts              1 pck        100 Tk
+33. Oats              1 pck        120 Tk
+34. Popcorn       1 pck          40 Tk
+35. Chips            1 pck          45 Tk	
+36. Noodles        1 pck        140 Tk
+37. Soups           1 pck           40 Tk
+38. Biscuit          1 pck          60 Tk
